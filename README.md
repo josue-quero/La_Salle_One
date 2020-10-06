@@ -20,4 +20,4 @@ If the previous step is not possible, there is an existing precompiled file in a
 
 ### About trademark
 ---
-David Marcial, is the developer of this app and he is in no way affiliated to La Salle nor does he have plans of being. This app was developed by an student to be helpful to other studentes, and is my every intention for it to remain this way. The app, as it is presented, is free and open, and thanks to the fact that most of it is open source (almost everything) any student may use it, modify it to his or her convinience.
+WeAreMagic, is the developer of this app and he is in no way affiliated to La Salle nor does he have plans of being. This app was developed by an student to be helpful to other studentes, and is my every intention for it to remain this way. The app, as it is presented, is free and open, and thanks to the fact that most of it is open source (almost everything) any student may use it, modify it to his or her convinience.
